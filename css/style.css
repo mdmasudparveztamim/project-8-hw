@@ -1,0 +1,39 @@
+.body{
+    background-color: rgb(97, 210, 252);
+}
+/*this is singleline comment */
+.h1{
+   
+    border: 2px solid tomato;
+    text-align: center;    
+}
+/*this is unorderlist*/
+.a{list-style-type: circle;}
+.b{list-style-type: square;} 
+/*this is orderlist*/
+.c{list-style-type: lower-alpha;}
+
+/*this is table id*/
+.table{
+    width: 100%;
+    border: 1px solid;
+    border-collapse:collapse;
+}
+/*this is border */
+.dotted {border: dotted yellow;}
+.dashed {border: dashed green;}
+.solid  {border: solid  lightcoral;}
+.double {border: double lightblue;}
+.groove {border: groove lightsalmon;}
+.ridge  {border: ridge  skyblue;}
+.inset  {border: inset;}
+.outset {border: outset;}
+.none   {border: none   navy;}
+.hidden {border: hidden;}
+.mix    {border: dotted dashed solid double pink;}
+
+/*this is css box*/
+.p1{
+    text-align: center;
+    background-color: tomato;
+}
